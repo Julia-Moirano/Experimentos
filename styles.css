@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Roboto+Slab:wght@100..900&display=swap');
+
+header h1{
+    /*font-family: "M PLUS Rounded 1c", sans-serif;*/
+    background-color: aqua;
+    color: blueviolet;
+}
